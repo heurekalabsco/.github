@@ -79,7 +79,7 @@ We're actively seeking partnerships with:
 
 - **Website:** [heurekalabs.co](https://www.heurekalabs.co)
 - **Email:** [hello@heurekalabs.co](mailto:help@heurekalabs.co)
-- **Book a Demo:** [Schedule Meeting](https://calendly.com/heurekalabs)
+- **Book a Demo:** [Schedule Meeting](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2FtjutR0muWt5My1776JJnw9m9GDCOiINGbI-wLwrwVJTDqU3KWmUq8XufrfKgGAfAfncZa0gG)
 
 ---
 
