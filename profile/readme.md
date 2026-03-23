@@ -24,7 +24,7 @@ AI models and systems for data-driven scientific discovery.
 
 ## Published research
 
-- [Pathway coessentiality mapping reveals complex II is required for de novo purine biosynthesis in acute myeloid leukaemia](https://doi.org/10.1038/s42255-024-01178-4) — *Nature Metabolism*, 2025
+- [Pathway coessentiality mapping reveals complex II is required for de novo purine biosynthesis in acute myeloid leukaemia](https://www.nature.com/articles/s42255-025-01410-x) — *Nature Metabolism*, 2025
 
 ## Links
 
