@@ -2,7 +2,7 @@
 
 AI models and systems for data-driven scientific discovery.
 
-[![Website](https://img.shields.io/badge/heurekalabs.co-000?style=flat-square)](https://www.heurekalabs.co)
+[![Website](https://img.shields.io/badge/heurekalabs.co-7AA661?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white)](https://www.heurekalabs.co)
 
 ## What we build
 
