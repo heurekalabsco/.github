@@ -1,92 +1,33 @@
-# 🔬 Heureka Labs
+# Heureka Labs
 
-> **Accelerating Scientific Discovery Through Data-Driven Innovation**
+AI models and systems for data-driven scientific discovery.
 
-[![Website](https://img.shields.io/badge/Website-heurekalabs.co-blue?style=flat-square)](https://www.heurekalabs.co)
-[![Contact](https://img.shields.io/badge/Contact-help%40heurekalabs.co-green?style=flat-square)](mailto:help@heurekalabs.co)
+[![Website](https://img.shields.io/badge/heurekalabs.co-000?style=flat-square)](https://www.heurekalabs.co)
 
-## 🧬 Mission
+## What we build
 
-At Heureka Labs, we're building tools and systems that help scientists make more efficient and impactful discoveries. We bridge the analog wisdom of traditional scientific research with the transformative power of AI, creating a platform where data ignites innovation and breakthroughs await.
+**Foundation models for biology.** We train graph neural networks on real multi-omic experimental data — DepMap, TCGA, GTEx, and more — not just published text.
 
-## 🚀 What We Do
+**Heureka Bench** — Desktop app for data-driven research. Your data stays on your machine.
 
-### **Data-Driven Research Platform**
-Our proprietary vector database powers a comprehensive platform that:
-- **Proactively identifies** research opportunities
-- **Designs experiments** using AI-driven insights  
-- **Analyzes results** with advanced bioinformatics
-- **Generates actionable insights** through specialized scientific tools and autonomous agents
+- Project workspaces with local and cloud storage
+- Paper library with DOI import, PDF annotation, and AI summaries
+- Notes with bidirectional links and a visual knowledge graph
+- Lab inventory tracking with low-stock alerts
+- Cloud compute jobs from your desktop
+- Scheduled tasks — literature scans, hypothesis generation, data analysis on a cadence
+- ARC (AI Research Companion) — query our foundation models against your data
+- Presentations built from your research data
 
-### **Key Benefits**
-- ⚡ **90% cost reduction** vs traditional research tools
-- 📈 **Results in hours** instead of weeks
-- 🔍 **Same-day bioinformatics** solutions with enhanced interpretations
-- 🤝 **Streamlined collaboration** across research teams
+**Heureka Chat** — Browser-based access to ARC and cloud collaboration. Same models, same data, same credits.
 
-## 🛠️ Core Products
+## Published research
 
-### **ARC (AI Research Companion)**
-Chat-based interface leveraging our proprietary vector database for:
-- Data-driven hypothesis development
-- Gene & pathway exploration
-- Literature discovery & synthesis
-- Project management
-- Figure creation
-- Lab-specific contextual analysis
+- [Pathway coessentiality mapping reveals complex II is required for de novo purine biosynthesis in acute myeloid leukaemia](https://doi.org/10.1038/s42255-024-01178-4) — *Nature Metabolism*, 2025
 
-### **Bioinformatics Suite**
-Same-day analyses including:
-- Multi-omic support
-- Custom, annotated code
-- Comprehensive reports
-- Literature/data reviews
-- Plain-language interactions
-- Flexible code inputs/compatibility
+## Links
 
-## 🏢 Impact & Adoption
-
-**Currently trusted by researchers at:**
-- Duke University
-- National University of Singapore (NUS)
-- Leading biotech companies
-- Research institutions worldwide
-
-Our innovative tools have demonstrated **significant improvements** in research efficiency and success rates across diverse scientific domains.
-
-## 🌟 Getting Started
-
-Ready to revolutionize your research? 
-
-**🎯 Try Heureka Labs:**
-- 🆓 **7-day free trial** with full platform access
-- 📞 **Schedule a demo** to see our tools in action
-- 💬 **Contact our team** for custom solutions
-
-[**Start Your Free Trial →**](https://www.heurekalabs.co/)
-
-## 🤝 Partnerships & Collaboration
-
-We're actively seeking partnerships with:
-- **NIH & NCI** for large-scale research initiatives
-- **Grant administrators** looking to maximize research impact
-- **Academic institutions** wanting to accelerate discovery
-- **Biotech companies** aiming to reduce R&D costs
-
-**Contact:** [help@heurekalabs.co](mailto:help@heurekalabs.co)
-
-## 🔗 Connect With Us
-
-- **Website:** [heurekalabs.co](https://www.heurekalabs.co)
-- **Email:** [hello@heurekalabs.co](mailto:help@heurekalabs.co)
-- **Book a Demo:** [Schedule Meeting](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2FtjutR0muWt5My1776JJnw9m9GDCOiINGbI-wLwrwVJTDqU3KWmUq8XufrfKgGAfAfncZa0gG)
-
----
-
-### 💡 "Where curiosity leads to discovery"
-
-*Heureka Labs is transforming how scientists discover, analyze, and innovate. Join us in accelerating the pace of scientific breakthroughs.*
-
----
-
-**🏷️ Keywords:** Scientific Research • Bioinformatics • AI • Machine Learning • Data Analysis • Laboratory Tools • Research Acceleration • Hypothesis Generation • Scientific Discovery
+- [Website](https://www.heurekalabs.co)
+- [Download Heureka Bench](https://www.heurekalabs.co/download.html)
+- [Pricing](https://www.heurekalabs.co/pricing.html)
+- [Contact](mailto:support@heurekalabs.co)
