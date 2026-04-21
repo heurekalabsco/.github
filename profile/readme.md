@@ -7,7 +7,7 @@ AI models and systems for data-driven scientific discovery.
 
 ## What we build
 
-**Foundation models for biology.** We train graph neural networks on real multi-omic experimental data — DepMap, TCGA, GTEx, and more — not just published text.
+**Foundation models for biology.** We train models on real multi-omic experimental data — not just published text.
 
 **Heureka Bench** — Desktop app for data-driven research. Your data stays on your machine.
 
@@ -19,8 +19,6 @@ AI models and systems for data-driven scientific discovery.
 - Scheduled tasks — literature scans, hypothesis generation, data analysis on a cadence
 - ARC (AI Research Companion) — query our foundation models against your data
 - Presentations built from your research data
-
-**Heureka Chat** — Browser-based access to ARC and cloud collaboration. Same models, same data, same credits.
 
 ## Published research
 
